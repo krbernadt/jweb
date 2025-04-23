@@ -1,1 +1,1 @@
-# spring_mvc
+# Java Web (jweb)
